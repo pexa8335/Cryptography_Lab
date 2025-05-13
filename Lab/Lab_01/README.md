@@ -44,5 +44,9 @@ This project implements **DES** and **AES** encryption algorithms using the **Cr
 - g++ (Linux) or MSVC (Windows)
 - How to set up - unzip 01_Setups and follow the pipeline
 
-# 📊 Performance Report
+---
+## 📊 Performance Report
 ![alt text](image.png)
+
+## System information
+![alt text](image-1.png)
